@@ -1,0 +1,17 @@
+/* #UTILITIES */
+
+.debug,
+.debug * {
+  background-color: #ff000033;
+  border: 2px dashed red;
+}
+
+.navbar-image {
+  height: 50px;
+}
+
+@media screen and (min-width: 1200px) {
+  .w-xl-50 {
+    width: 50%;
+  }
+}
